@@ -1,4 +1,4 @@
-## < center>Resume< /center>
+## Resume
 
 Yanbing Zhang
 
