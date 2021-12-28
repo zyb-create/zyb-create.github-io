@@ -1,37 +1,41 @@
-## Welcome to GitHub Pages
+## < center>Resume< /center>
 
-You can use the [editor on GitHub](https://github.com/zyb-create/zyb-create.github-io/edit/main/README.md) to maintain and preview the content for your website in Markdown files.
+Yanbing Zhang
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+Southern University of Science and Technology 
 
-### Markdown
+Phone:15017901315 
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+E-mail:12132428@mail.sustech.edu.cn 
+
+### Education
 
 ```markdown
-Syntax highlighted code block
+2021-present	Southern University of Science and Technology	MAE 
 
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
+2017-2021	JiangSu Univerisity of Technology				CS 
 ```
 
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
+### Professional Experiences
 
-### Jekyll Themes
+```markdown
+2020-2021  Indoor positioning design 
 
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/zyb-create/zyb-create.github-io/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
+2018-2020  Mathematical Modeling Training 
+```
 
-### Support or Contact
+### Skills
 
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
+```markdown
+IT		Java、C++、Python 
+Language	English(CET-6  466) 
+Additional	Driving license 
+```
+
+### Honor and Awards
+
+```markdown
+2017-2021  The first prize of the Jiangsu University Mathematics Competition for College Students, the second prize of the Jiangsu Advanced Mathematics Competition; 
+2019-2020  The second prize of the National College Students Mathematical Contest in Modeling Jiangsu Division, the third prize of the National University Computer Proficiency Challenge (Java);
+2020-2021  The Bronze Award in the CCF College Student Computer System and Design Competition, and the computer programming ability test (PAT) with 87 points (full 100 points). 
+```
