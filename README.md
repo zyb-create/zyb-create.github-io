@@ -1,4 +1,4 @@
-## Resume
+# Resume
 
 Yanbing Zhang
 
