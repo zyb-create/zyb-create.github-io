@@ -13,7 +13,7 @@ E-mail:12132428@mail.sustech.edu.cn
 ```markdown
 2021-present	Southern University of Science and Technology	MAE 
 
-2017-2021	JiangSu Univerisity of Technology               CS 
+2017-2021	JiangSu Univerisity of Technology CS 
 ```
 
 ### Professional Experiences
